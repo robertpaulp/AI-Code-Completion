@@ -1,0 +1,9 @@
+nltk
+codebleu
+evaluate
+rouge_score
+openpyxl
+tree-sitter-python
+matplotlib
+seaborn
+csv
